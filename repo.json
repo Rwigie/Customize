@@ -15,9 +15,9 @@
 		"DownloadCount": 0,
 		"LastUpdate": 0,
 		"LoadPriority": 0,
-		"DownloadLinkInstall": "https://github.com/XIV-Tools/CustomizePlus/releases/tag/0.0.1.0/CustomizePlus.zip",
-		"DownloadLinkTesting": "https://github.com/XIV-Tools/CustomizePlus/releases/tag/0.0.1.0/CustomizePlus.zip",
-		"DownloadLinkUpdate": "https://github.com/XIV-Tools/CustomizePlus/releases/tag/0.0.1.0CustomizePlus.zip",
+		"DownloadLinkInstall": "https://github.com/Rwigie/Customize/raw/dowload/CustomizePlus.zip",
+		"DownloadLinkTesting": "https://github.com/Rwigie/Customize/raw/dowload/CustomizePlus.zip",
+		"DownloadLinkUpdate": "https://github.com/Rwigie/Customize/raw/dowload/CustomizePlus.zip",
 		"IconUrl": "https://raw.githubusercontent.com/XIV-Tools/CustomizePlus/main/Data/icon.png",
 		"Changelog": "0.0.1.0\n- Ignore root bone when setting transforms (fixes effects, nameplates and camera)\n- Custom precision slider\n- Removed duplicate AddCommand\n- Reworked Cutscene Name and added Penumbra String as Nugget, thanks Dark!\n- Improved Editing Interface"
 	},
